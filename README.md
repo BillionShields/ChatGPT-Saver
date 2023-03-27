@@ -1,7 +1,7 @@
 
 # ChatGPT Saver (C)2023 by SZ @ X3EM
 
-“This morning, I asked ChatGPT to save itself! 
+This morning, I asked ChatGPT to save itself! 
 You may be surprised by what happened next! 
 
 This is the code it wrote: Introducing ChatGPT Saver! Lol. 😊 
