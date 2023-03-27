@@ -1,7 +1,10 @@
 
 # ChatGPT Saver (C)2023 by SZ @ X3EM
 
-I asked ChatGPT to write a ChatGPT Saver! lol. :) 
+“This morning, I asked ChatGPT to save itself! 
+You may be surprised by what happened next! 
+
+This is the code it wrote: Introducing ChatGPT Saver! Lol. 😊 
 
 Install it as a bookmarklet [ChatGPT Saver](ChatGPT%20Saver.url). 
 
