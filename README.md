@@ -1,6 +1,10 @@
 
 # ChatGPT Saver (C)2023 by SZ @ X3EM
 
+# Emergency update 04/07/2023
+ChatGPT OpenAi decided to change HTML structure, so need update accomodates those changes.
+Also added Adobe FireFly save as well
+
 # Update 04/01/2023 - Now supports ChatDOC.com
 Just updated the bookmarklet - shoud now work on ChatDOC.com chats
 
