@@ -1,29 +1,31 @@
 
 # ChatGPT Saver (C)2023 by SZ @ X3EM
-# Saves Chats from ChatGPT+, ChatDOC, BingGPT & FireFly to your local TEXT file
-# No Warranties provided whatsoever 
+**Saves Chats from ChatGPT+, ChatDOC, BingGPT & FireFly to your local TEXT file! 
+<br>No Warranties provided whatsoever!** 
 
-# Update 04/08/2023 BingGPT is now operational!
+**Update 04/08/2023:** BingGPT is now operational!
 
-New EASY installation - download, unzip(if needed) and run Install.html
+New **EASY** installation - download, unzip(if needed) and run ***Install.html***
 ![Install Instructions](HowInstall.png)
-BingGPT is now operational! Finally figured out how to grab text from shaddow DOM! 
+![Zip Download](DownloadZip.png)
+
+**BingGPT** is now operational! Finally figured out how to grab text from shaddow DOM! 
 
 
-# Emergency update 04/07/2023 with Adobe FireFly 
+**Emergency update 04/07/2023:** with Adobe FireFly 
 - ChatGPT OpenAi decided to change the HTML structure, so this new update accommodates those changes.
 
 - Also added Adobe FireFly save as well
 ![Firefly Support](FireFLySupport.png)
 
-# Update 04/01/2023 - Now supports ChatDOC.com
+**Update 04/01/2023:** - Now supports ChatDOC.com
 Just updated the bookmarklet - should now work on ChatDOC.com chats
 
-This morning, I asked ChatGPT to save itself! 
+*This morning, I asked ChatGPT to save itself! 
 You may be surprised by what happened next! 
 
 This is the code it wrote: Introducing ChatGPT Saver! Lol. 😊 
 
 
-Enjoy!
+Enjoy!*
 
