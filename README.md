@@ -4,8 +4,8 @@
 # No Warranties provided whatsoever 
 
 Drag to your Browser's Bookmarks bar to install
-<a href="javascript:(function(){var script = document.createElement('script');
-script.src = 'https://github.com/BillionShields/ChatGPT-Saver/blob/2972415a95c13653f046218fc87caed46a1675a3/ChatGPTSaver.js';document.body.appendChild(script);})();">ChatGPT Saver</a>
+<a href="javascript:(function(){var script = document.createElement('script');script.src = 'https://github.com/BillionShields/ChatGPT-Saver/blob/2972415a95c13653f046218fc87caed46a1675a3/ChatGPTSaver.js';document.body.appendChild(script);})();">ChatGPT Saver</a>
+[ChatGPT Saver](javascript:(function(){var script = document.createElement('script');script.src = 'https://github.com/BillionShields/ChatGPT-Saver/blob/2972415a95c13653f046218fc87caed46a1675a3/ChatGPTSaver.js';document.body.appendChild(script);})();)
 
 # Update 04/07/2023 BingGPT is now operational!
 Finally figured out how to grab text from shaddow DOM! 
