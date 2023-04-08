@@ -6,7 +6,7 @@
 # Update 04/08/2023 BingGPT is now operational!
 
 New EASY installation - download, unzip(if needed) and run Install.html
-[Install](HowInstall.png)
+![Install Instructions](HowInstall.png)
 BingGPT is now operational! Finally figured out how to grab text from shaddow DOM! 
 
 
