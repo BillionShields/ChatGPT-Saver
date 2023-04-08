@@ -3,7 +3,7 @@
 # Saves Chats from ChatGPT+, ChatDOC, BingGPT & FireFly to your local TEXT file
 # No Warranties provided whatsoever 
 
-Drag to your Browser's Bookmarks bar to install
+Create a Bookmark "ChatGPT Saver", clik Edit and pase following code into URL section: 
 
 
 ```js
