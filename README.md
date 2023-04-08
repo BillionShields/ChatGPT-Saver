@@ -3,6 +3,13 @@
 # Saves Chats from ChatGPT+, ChatDOC, BingGPT & FireFly to your local TEXT file
 # No Warranties provided whatsoever 
 
+Drag to your Browser's Bookmarks bar to install
+<a href="javascript:(function(){
+  var script = document.createElement('script');
+  script.src = 'https://github.com/BillionShields/ChatGPT-Saver/blob/2972415a95c13653f046218fc87caed46a1675a3/ChatGPTSaver.js';
+  document.body.appendChild(script);
+})();">ChatGPT Saver</a>
+
 # Update 04/07/2023 BingGPT is now operational!
 Finally figured out how to grab text from shaddow DOM! 
 
@@ -20,7 +27,6 @@ You may be surprised by what happened next!
 
 This is the code it wrote: Introducing ChatGPT Saver! Lol. 😊 
 
-Install it as a bookmarklet [ChatGPT Saver](ChatGPT%20Saver.url). 
 
 Download & Drag file to the bookmarks bar! 
 Click on it when you need your chat saved as local text file i.e.  [Sample "ChatGPT_2023-3-27_8-48-37.txt" ](ChatGPT_2023-3-27_8-48-37.txt)
