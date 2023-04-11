@@ -1,6 +1,6 @@
 
 # ChatGPT Saver (C)2023 by SZ @ X3EM
-**Saves Chats from ChatGPT+, ChatDOC, BingGPT & FireFly to your local TEXT file! 
+**Saves Chats from ChatGPT+, ChatDOC, BingGPT, ChatYouTube & FireFly to your local TEXT file! 
 <br>No Warranties provided whatsoever!** 
 
 **Update 04/10/2023:** Now supporting ChatYoutube! 
