@@ -4,7 +4,7 @@
 <br>No Warranties provided whatsoever!** 
 
 **Update 04/10/2023:** Now supporting ChatYoutube! 
-![Support for ChatYoutube](ChatYoutube.png)
+![Support for ChatYoutube](ChatYouTube.png)
 
 **Update 04/08/2023:** BingGPT is now operational!
 
