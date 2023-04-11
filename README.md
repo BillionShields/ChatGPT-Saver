@@ -3,6 +3,9 @@
 **Saves Chats from ChatGPT+, ChatDOC, BingGPT & FireFly to your local TEXT file! 
 <br>No Warranties provided whatsoever!** 
 
+**Update 04/10/2023:** Now supporting ChatYoutube! 
+![Support for ChatYoutube](ChatYoutube.png)
+
 **Update 04/08/2023:** BingGPT is now operational!
 
 New **EASY** installation - download, unzip(if needed) and run ***Install.html***
