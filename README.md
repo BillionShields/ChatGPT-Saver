@@ -3,6 +3,12 @@
 **Saves Chats from ChatGPT+, ChatDOC, ChatPDF, BingGPT, ChatYouTube, ClipDrop Stable Diffusion & FireFly to your local TEXT file! 
 <br>No Warranties provided whatsoever!** 
 
+New **EASY** installation - download, unzip(if needed) and run ***Install.html***
+![Install Instructions](HowInstall.png)
+![Zip Download](DownloadZip.png)
+
+**Update 04/26/2023:** Fixed OpenAi tables update & added new Blobs Image Pop. Opens any blob images on separate tabs. 
+
 **Update 04/21/2023:** Now supporting ChatPDF & ClipDrop Stable Diffusion ! 
 ![Support for ChatPDF](ChatPDF.png)
 
@@ -11,9 +17,7 @@
 
 **Update 04/08/2023:** BingGPT is now operational!
 
-New **EASY** installation - download, unzip(if needed) and run ***Install.html***
-![Install Instructions](HowInstall.png)
-![Zip Download](DownloadZip.png)
+
 
 **BingGPT** is now operational! Finally figured out how to grab text from shaddow DOM! 
 
