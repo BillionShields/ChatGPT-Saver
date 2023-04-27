@@ -8,6 +8,8 @@ New **EASY** installation - download, unzip(if needed) and run ***Install.html**
 ![Zip Download](DownloadZip.png)
 
 **Update 04/26/2023:** Fixed OpenAi tables update & added new Blobs Image Pop. Opens any blob images on separate tabs. 
+Note: Some blob images expire so save them right away if you need.
+P.S. If you forgot and image expired you can still screenshot it. 
 
 **Update 04/21/2023:** Now supporting ChatPDF & ClipDrop Stable Diffusion ! 
 ![Support for ChatPDF](ChatPDF.png)
